@@ -11,8 +11,3 @@ Techs:
 4. vue.js
 5. vueCLI
 
-## Instructions
-1. you can switch between stored resource section and add new resources by clicking on the Dedicated button at the top of the page.
-2. In the add resource section, you must at least add one of the three required (title, description, link) for your new resources card..
-3. If you submitted an empty resource you will face an alert dialog, you can close it by clicking on the " okay" button or just click anywhere outside the alert window.
-4. you can delete your resource card by clicking the "delete" button.
